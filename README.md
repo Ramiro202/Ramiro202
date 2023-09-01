@@ -27,6 +27,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ramiro202&repo=Reencaminhar-mensagem-de-grupos-Telegram)](https://github.com/Ramiro202/Reencaminhar-mensagem-de-grupos-Telegram)
 
 ##
+## Linguagens Mais usadas
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ramiro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -36,6 +37,7 @@
 </div>
 
 ## 
+## Minhas Rede Sociais
 
 <div>
   <a href="https://m.me/ramirosegunda920.ramiroo" target="_blank"><img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" target="_blank"></a>
