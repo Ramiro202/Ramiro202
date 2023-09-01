@@ -8,7 +8,7 @@
 ##
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramiro202&hide=prs&show_icons=true&theme=dracula)](https://github.com/Ramiro202/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramiro920&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramiro202&layout=compact)
 
 ##
 
