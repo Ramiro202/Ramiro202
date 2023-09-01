@@ -25,3 +25,15 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ramiro202&repo=Reencaminhar-mensagem-de-grupos-Telegram)](https://github.com/Ramiro202/Reencaminhar-mensagem-de-grupos-Telegram)
 
+## 
+
+<div>
+  <a href="https://m.me/ramirosegunda920.ramiroo" target="_blank"><img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"></a>
+
+  <a href="https://api.whatsapp.com/send?phone=+244937829599&text=Ol%C3%A1%2C%20vim%20pelo%20GitHub%21" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+
+  <a href="https://www.instagram.com/ramirosegunda920/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
+  <a href="https://www.youtube.com/@ramiroongando5565/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+
+</div>
