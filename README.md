@@ -23,12 +23,7 @@
 
 ##
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramiro202)](https://github.com/Ramiro202/github-readme-stats)
-
-##
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ramiro202&repo=TeleMarketing)](https://github.com/Ramiro202/TeleMarketing)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ramiro202&repo=Reencaminhar-mensagem-de-grupos-Telegram)](https://github.com/Ramiro202/Reencaminhar-mensagem-de-grupos-Telegram)
 
 ##
