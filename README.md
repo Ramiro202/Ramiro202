@@ -32,7 +32,7 @@
 
 ## 📌 Alguns projetos:
 - 🎬 **API de Filmes e Séries** – com scraping de sites como ComandoPlay
-- 🎬 APP para ver acompanhar filmes e séries (em desenvolvimento)
+- 🎬 **APP para acompanhar filmes e séries** (em desenvolvimento)
 - ⚒️ Ferramentas de automação e análise para terminal em Python
 
 ---
